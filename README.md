@@ -7,12 +7,9 @@ Welcome, this is my portfolio, where I summarize my projects
 
 
 ### Data Science - ML
+[Kaggle](https://www.kaggle.com/kiarabaungartner)
 
 
-
-#### Kaggle:
-https://www.kaggle.com/kiarabaungartner
-
-#### LeetCode
-https://leetcode.com/u/jxFiFGLFg2/
+### Other
+[LeetCode](https://leetcode.com/u/jxFiFGLFg2/)
 
