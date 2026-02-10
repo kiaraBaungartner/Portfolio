@@ -8,7 +8,7 @@ Welcome, this is my portfolio, where I summarize my projects
 
 ### Data Science - ML
 - [Kaggle Profile](https://www.kaggle.com/kiarabaungartner)
-
+- [Titanic - Kaggle Competitions Solves](https://github.com/kiaraBaungartner/Titanic-ML)
 
 ### Others
 - [LeetCode Profile](https://leetcode.com/u/jxFiFGLFg2/)
